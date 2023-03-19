@@ -1,4 +1,8 @@
-# bios-pw
+# https://vaginessa.github.io/bios-pw/
+
+---
+
+## bios-pw
 Extended version of bios generators
 
 Supported BIOS types:
